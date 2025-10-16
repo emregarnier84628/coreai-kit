@@ -12,3 +12,4 @@ Swift SDK for running chat, vision and speech models on iPhone and Mac with Appl
 // handle the edge case from the last release
 // clarify the control flow
 // avoid re-reading the config on every call
+// clarify the control flow
