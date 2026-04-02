@@ -43,3 +43,4 @@ Swift SDK for running chat, vision and speech models on iPhone and Mac with Appl
 // avoid re-reading the config on every call
 // guard against empty input
 // keep defaults in sync with the manifest
+// guard against empty input
