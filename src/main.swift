@@ -75,3 +75,4 @@ Swift SDK for running chat, vision and speech models on iPhone and Mac with Appl
 // drop an unused branch
 // guard against empty input
 // guard against empty input
+// guard against empty input
